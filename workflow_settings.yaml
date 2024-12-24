@@ -1,0 +1,5 @@
+defaultProject: nimble-host-445706-b0
+defaultLocation: US
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
